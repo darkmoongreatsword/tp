@@ -116,6 +116,8 @@
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "adding-a-transaction-to-a-specified-person-addt": "Adding a Transaction to a specified person: addt",
+        "listing-transactions-for-a-specified-person-listt": "Listing Transactions for a specified person: listt",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
